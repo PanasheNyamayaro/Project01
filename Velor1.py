@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-st.title("💹 Velor Forex Pair Price Fetcherrr")
+st.title("💹 Velor Forex Pair Price Fetche")
 
 base = st.text_input("Base Currency (e.g., USD)", "USD").upper()
 quote = st.text_input("Quote Currency (e.g., JPY)", "JPY").upper()
