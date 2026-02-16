@@ -1,1 +1,1 @@
-st.header("forex trading course 101")
+st.title("forex trading course 101")
